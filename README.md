@@ -34,6 +34,8 @@ Hi, I'm [Aditya Yaduvanshi](https://www.instagram.com/fixslayrxx/) and I am web 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9rajyhn03ll8w0ohk7usytvp2&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=9rajyhn03ll8w0ohk7usytvp2&redirect=true)
+
 <details>
   <summary>Some other facts about me</summary>
   <br>
