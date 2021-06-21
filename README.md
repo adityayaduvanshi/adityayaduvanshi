@@ -11,7 +11,7 @@
 <a href="https://twitter.com/fixslyr">
   <img align="left" alt="Aditya Yaduvanshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/theadityayaduvanshi/">
+<a href="https://www.linkedin.com/in/theaditya-yaduvanshi-/">
   <img align="left" alt="Aditya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/9rajyhn03ll8w0ohk7usytvp2">
