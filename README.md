@@ -5,8 +5,8 @@
 
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.instagram.com/fixslayrxx/">
+  <img align="left" alt="Aditya's Instagram" width="22px" src="https://github.com/simple-icons/simple-icons/blob/e8b25f92753f5e5255a3a7075531da18630b5281/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/fixslyr">
   <img align="left" alt="Aditya Yaduvanshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -48,6 +48,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <br><br>
 </details>
 
+
+
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
@@ -56,6 +58,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <a href="https://twitter.com/fixslyr" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/theadityayaduvanshi/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:aditya97y@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://www.instagram.com/fixslayrxx/">
+  <img alt="Aditya's Instagram" width="22px" src="https://github.com/simple-icons/simple-icons/blob/e8b25f92753f5e5255a3a7075531da18630b5281/icons/instagram.svg" />
+</a>
    
   </p>
 
