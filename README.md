@@ -2,28 +2,49 @@
 
 <img src="hey,i am Aditya (2).png" alt="Hero image">
 
+
+
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/fixslyr">
+  <img align="left" alt="Aditya Yaduvanshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/theadityayaduvanshi/">
+  <img align="left" alt="Aditya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/9rajyhn03ll8w0ohk7usytvp2">
+  <img align="left" alt="Aditya's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=adityayaduvanshi.adityayaduvanshi)
+
+<br />
+
+
+
+
+
+
+
+
 Hi, I'm [Aditya Yaduvanshi](https://www.instagram.com/fixslayrxx/) and I am web developer and web desginer.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-Here's a list of things I currently keep myself busy with:
-
-- 👩🏻‍💻 Working as a software engineer over at **[Rounded](https://rounded.io)**
-- ☀️ Maintaining **[Letra](https://github.com/jayehernandez/letra-extension)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
-- ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**.
-- 🛠 Getting myself into JAMStack. Trying out [11ty](https://www.11ty.dev/) and [Nuxt.js](https://nuxtjs.org/) in my spare time.
 
 <details>
-  <summary>Some other facts about me-e-e</summary>
+  <summary>Some other facts about me</summary>
   <br>
-  <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
-
-  - I post random photos and trip snippets at **[VSCO](https://vsco.co/jayehernandez)**. (Look at the Journal's tab!)
-  - My go to jam when coding: musicals. Non-stop. ⭐️
-  - I absolutely adore Eevee, the best Pokemon.
   
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=jayehernandez&show_icons=true&theme=nord)
+  - I love playing games and listening songs.
+  - I love watching movies.Horror and sci fi are my favourite genre. ⭐️
+  - KSHMR,Travis Scott,TheWeeknd are my favourite artists.
+  
+
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=adityayaduvanshi&show_icons=true&theme=nord)
   <br><br>
 </details>
 
