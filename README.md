@@ -33,6 +33,9 @@ Hi, I'm [Aditya Yaduvanshi](https://www.instagram.com/fixslayrxx/) and I am web 
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adityayaduvanshi&theme=black-green)
+
 ### My last spotify song
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9rajyhn03ll8w0ohk7usytvp2&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=9rajyhn03ll8w0ohk7usytvp2&redirect=true)
 
@@ -69,3 +72,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+
+
