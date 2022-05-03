@@ -14,9 +14,7 @@
 <a href="https://www.linkedin.com/in/theaditya-yaduvanshi-/">
   <img align="left" alt="Aditya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/9rajyhn03ll8w0ohk7usytvp2">
-  <img align="left" alt="Aditya's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=adityayaduvanshi.adityayaduvanshi)
 
