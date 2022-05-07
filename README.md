@@ -4,7 +4,7 @@
 
 
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey, I'm Aditya Yaduvanshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/imtheaddy/">
   <img align="left" alt="Aditya's Instagram" width="22px" src="https://github.com/simple-icons/simple-icons/blob/e8b25f92753f5e5255a3a7075531da18630b5281/icons/instagram.svg" />
 </a>
@@ -14,6 +14,11 @@
 <a href="https://www.linkedin.com/in/theaditya-yaduvanshi-/">
   <img align="left" alt="Aditya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://adityayaduvanshi.medium.com/">
+  <img align="left" alt="Aditya's Medium" width="22px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-medium-3.png" />
+</a>
+
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=adityayaduvanshi.adityayaduvanshi)
