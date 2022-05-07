@@ -39,20 +39,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adityayaduvanshi&theme=black-green)
 
-### My last spotify song
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9rajyhn03ll8w0ohk7usytvp2&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=9rajyhn03ll8w0ohk7usytvp2&redirect=true)
 
-<details>
-  <summary>Some other facts about me</summary>
-  <br>
-  
 
-  - I love playing games and listening songs.
-  - I love watching movies.Horror and sci fi are my favourite genre. ⭐️
-  - KSHMR,Travis Scott,TheWeeknd are my favourite artists.
-  
-
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=adityayaduvanshi&show_icons=true&theme=nord)
+![My github stats](https://github-readme-stats.vercel.app/api?username=adityayaduvanshi&show_icons=true&theme=nord)
   <br><br>
 </details>
 
