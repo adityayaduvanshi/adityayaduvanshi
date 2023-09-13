@@ -5,25 +5,17 @@
 
 
 ### Hey, I'm Aditya Yaduvanshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/imtheaddy/">
-  <img align="left" alt="Aditya's Instagram" width="22px" src="https://github.com/simple-icons/simple-icons/blob/e8b25f92753f5e5255a3a7075531da18630b5281/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/fixslyr">
-  <img align="left" alt="Aditya Yaduvanshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/theaditya-yaduvanshi-/">
-  <img align="left" alt="Aditya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://adityayaduvanshi.medium.com/">
-  <img align="left" alt="Aditya's Medium" width="22px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-medium-3.png" />
-</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theaditya-yaduvanshi-) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@adityayaduvanshi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fixslyr) 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=adityayaduvanshi.adityayaduvanshi)
 
-<br />
+
+
 
 
 
@@ -37,11 +29,20 @@ Hi, I'm [Aditya Yaduvanshi](https://www.instagram.com/fixslayrxx/) and I am web 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adityayaduvanshi&theme=black-green)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adityayaduvanshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adityayaduvanshi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityayaduvanshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=adityayaduvanshi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=adityayaduvanshi&show_icons=true&theme=nord)
+
+
   <br><br>
 </details>
 
@@ -56,7 +57,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <a href="https://www.linkedin.com/in/theadityayaduvanshi/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:aditya97y@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://www.instagram.com/imtheaddy/">
-  <img alt="Aditya's Instagram" width="22px" src="https://github.com/simple-icons/simple-icons/blob/e8b25f92753f5e5255a3a7075531da18630b5281/icons/instagram.svg" />
+ 
 </a>
    
   </p>
